@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Introduction (PDF - 3.7MB)](resources/mit2_627f13_lec01)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 1: Introduction'
 uid: ffce7131-9689-1aa7-2884-1c13785bf322

@@ -9,7 +9,11 @@ image_metadata:
   image-alt: "Diagram of a two-layer rectangle, with base \u201CFundamentals\u201D\
     \ topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and\
     \ Tech A-E."
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: concpt_model.png
+type: OCWImage
 uid: 19072bd7-636e-827b-c31b-4dd3b36d6274
 ---

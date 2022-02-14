@@ -2,6 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Charge Separation, Part II (PDF - 2.5MB)](resources/mit2_627f13_lec06)
+
+
+  ### Supporting Material
+
+
+  Handout: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Worksheet
+  on pn-junctions under dark and illuminated conditions (PDF)](resources/mit2_627f13_lec06_handout)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 6: Charge Separation, Part II '
 uid: cb972f00-66ed-e676-ac1c-a04cdeafa296

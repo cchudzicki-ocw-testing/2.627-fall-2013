@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[R&D Investment & Innovation in PV (PDF - 3.7MB)](resources/mit2_627f13_lec20)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 20: R&D Investment & Innovation in PV '
 uid: 1e6eb884-470d-324f-7c10-6afffae98202

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[PV Efficiency: Measurement and Theoretical Limits (PDF - 1.7MB)](resources/mit2_627f13_lec14)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 14: PV Efficiency: Measurement and Theoretical Limits'
 uid: d673bd41-dda2-2e88-2737-08c79577f6b9

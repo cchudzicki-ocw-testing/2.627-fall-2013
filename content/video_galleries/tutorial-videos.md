@@ -1,7 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
 title: Tutorial Videos
+type: CourseSection
 uid: c5af3e78-7a59-3c75-b87f-328a16cdecf4
 videos:
   content:

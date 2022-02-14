@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
 title: Quizzes
+type: CourseSection
 uid: 5341b458-4ae2-28e4-a45e-ad39e27ef9c1
 ---
 

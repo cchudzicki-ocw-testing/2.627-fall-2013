@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Toward a 1D Device Model, Part I: Device Fundamentals (PDF - 2.2MB)](resources/mit2_627f13_lec07)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 7: Toward a 1D Device Model, Part I: Device Fundamentals'
 uid: 2d17400a-ad2a-50dc-c101-9d6d029c2af4

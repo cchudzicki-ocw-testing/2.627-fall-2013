@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Light Absorption and Optical Losses (PDF - 2.3MB)](resources/mit2_627f13_lec03)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 3: Light Absorption and Optical Losses '
 uid: b1b59294-b765-76ff-4d32-c80c8ccee18e

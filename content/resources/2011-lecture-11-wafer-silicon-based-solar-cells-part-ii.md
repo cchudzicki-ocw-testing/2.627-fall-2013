@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: 'This file contains slides used in both Lectures 10 and 11.
+
+
+  [Wafer Silicon-Based Solar Cells (PDF - 2.7MB)](resources/mit2_627f13_lec10-11)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 11: Wafer Silicon-Based Solar Cells, Part II'
 uid: 9296ccd7-81d5-8a90-1ef9-997a085959ce

@@ -4,8 +4,13 @@ description: This file contains the information regarding in-class problems on P
   junction band formation and ideal diode Equation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-627-fundamentals-of-photovoltaics-fall-2013/7f52e3806b61cf85e3e909eb4b23d86a_MIT2_627F13_lec07_prob.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Calendar & Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7: In-class Problems on PN Junction Band Formation and Ideal Diode
   Equation'
+type: OCWFile
 uid: 7f52e380-6b61-cf85-e3e9-09eb4b23d86a
 ---

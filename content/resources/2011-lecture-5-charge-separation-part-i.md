@@ -2,6 +2,20 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Charge Separation, Part I (PDF - 3.0MB)](resources/mit2_627f13_lec05)
+
+
+  _Supporting Material_
+
+
+  [PC1D solar cell modeling program](https://www.engineering.unsw.edu.au/energy-engineering/research/software-data-links/pc1d-software-for-modelling-a-solar-cell)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 5: Charge Separation, Part I '
 uid: d7f3ad59-98a0-a593-ce88-2689a22f44be

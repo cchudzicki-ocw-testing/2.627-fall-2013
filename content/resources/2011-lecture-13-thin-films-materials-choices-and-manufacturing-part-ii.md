@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: 'This file contains slides used in both Lectures 12 and 13.
+
+
+  [Thin Films: Materials Choices and Manufacturing (PDF - 1.8MB)](resources/mit2_627f13_lec12-13)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 13: Thin Films: Materials Choices and Manufacturing, Part II'
 uid: 37e9f3f4-aa97-445c-8203-812f570bf2f0

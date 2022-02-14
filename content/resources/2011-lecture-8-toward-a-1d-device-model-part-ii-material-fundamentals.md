@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Toward a 1D Device Model, Part II: Material Fundamentals (PDF - 2.5MB)](resources/mit2_627f13_lec08)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 8: Toward a 1D Device Model, Part II: Material Fundamentals'
 uid: 22daea36-c0e4-2d25-8981-743130ce8ed2

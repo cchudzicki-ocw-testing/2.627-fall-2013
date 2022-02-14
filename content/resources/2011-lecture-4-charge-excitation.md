@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Charge Excitation (PDF - 2.7MB)](resources/mit2_627f13_lec04)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 4: Charge Excitation'
 uid: fa92e7a1-04a6-219a-3954-70ad541a57c2

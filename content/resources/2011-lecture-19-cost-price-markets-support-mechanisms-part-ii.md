@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part II (PDF - 2.8MB)](resources/mit2_627f13_lec19)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 19: Cost, Price, Markets, & Support Mechanisms, Part II '
 uid: 64b49df6-0e9e-ea18-50c3-1ccc795d8a72
