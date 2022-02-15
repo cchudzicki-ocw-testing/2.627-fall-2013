@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part I (PDF - 2.8MB)](resources/mit2_627f13_lec18)'
 parent_title: Lecture Videos & Slides

@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Charge Extraction (PDF)](resources/mit2_627f13_lec09)'
 parent_title: Lecture Videos & Slides

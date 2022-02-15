@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[R&D Investment & Innovation in PV (PDF - 3.7MB)](resources/mit2_627f13_lec20)'
 parent_title: Lecture Videos & Slides

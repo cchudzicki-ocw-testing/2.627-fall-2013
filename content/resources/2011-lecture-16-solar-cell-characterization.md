@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: "[Solar Cell Characterization (PDF)](resources/mit2_627f13_lec16)\n\
   \n### Supporting Materials\n\nPaper referenced in this lecture: Kasemann, M., et\

@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Modules, Systems, and Reliability (PDF - 2.7MB)](resources/mit2_627f13_lec17)
 

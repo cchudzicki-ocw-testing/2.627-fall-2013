@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-627-fundamentals-of-photovoltaics-fall-2013/a286fbb431885356aa4a118abdf8ec04_yHzpj_MDOdk.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: a286fbb4-3188-5356-aa4a-118abdf8ec04

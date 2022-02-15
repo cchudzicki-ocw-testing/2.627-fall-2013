@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Toward a 1D Device Model, Part I: Device Fundamentals (PDF - 2.2MB)](resources/mit2_627f13_lec07)'
 parent_title: Lecture Videos & Slides
