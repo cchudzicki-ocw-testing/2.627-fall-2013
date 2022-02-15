@@ -14,6 +14,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Image
 title: concpt_model.png
-type: OCWImage
 uid: 19072bd7-636e-827b-c31b-4dd3b36d6274
 ---

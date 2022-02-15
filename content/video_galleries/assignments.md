@@ -4,7 +4,6 @@ is_media_gallery: true
 learning_resource_types:
 - Assignments
 title: Assignments
-type: CourseSection
 uid: dc39f90b-bd8e-2eab-b87d-1a299ae17ea1
 videos:
   content:

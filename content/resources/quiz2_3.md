@@ -9,6 +9,5 @@ parent_title: Quizzes
 parent_type: CourseSection
 resourcetype: Other
 title: Quiz2_3.xlsx
-type: OCWFile
 uid: 1c53bda0-5989-ad1a-4dc8-3939c197ccdf
 ---

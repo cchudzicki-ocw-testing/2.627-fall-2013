@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Hypothesis Testing of New Wafer Suppliers
-type: OCWFile
 uid: 84282d63-468f-afd3-00cf-6f8b25ceb46c
 ---

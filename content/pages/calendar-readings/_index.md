@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Readings
 title: Calendar & Readings
-type: CourseSection
 uid: a3e8ad1b-6f83-72d1-116a-9727fb53539f
 ---
 

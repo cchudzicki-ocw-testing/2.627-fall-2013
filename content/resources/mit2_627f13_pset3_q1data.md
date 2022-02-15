@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: Dark and illuminated I-V measurement data.
-type: OCWFile
 uid: 507e3bc4-8edc-5784-1a02-761a136e13eb
 ---

@@ -4,7 +4,6 @@ is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 title: Lecture Videos & Slides
-type: CourseSection
 uid: 7c1b3b5a-aab8-de88-cc01-54e9515ac34d
 videos:
   content:

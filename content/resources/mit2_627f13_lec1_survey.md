@@ -9,6 +9,5 @@ parent_title: Calendar & Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Background Assessment Quiz
-type: OCWFile
 uid: 6904e119-84ec-9ba7-55f5-6ce340e92c1d
 ---

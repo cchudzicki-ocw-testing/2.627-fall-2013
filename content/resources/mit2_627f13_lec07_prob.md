@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7: In-class Problems on PN Junction Band Formation and Ideal Diode
   Equation'
-type: OCWFile
 uid: 7f52e380-6b61-cf85-e3e9-09eb4b23d86a
 ---

@@ -6,7 +6,6 @@ parent_title: Calendar & Readings
 parent_type: CourseSection
 parent_uid: a3e8ad1b-6f83-72d1-116a-9727fb53539f
 title: IV Curve Measurement
-type: CourseSection
 uid: 6dfe93db-514c-ba69-7de8-88355c6e8722
 ---
 

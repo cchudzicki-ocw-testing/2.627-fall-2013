@@ -9,6 +9,5 @@ parent_title: Quizzes
 parent_type: CourseSection
 resourcetype: Other
 title: Quiz1data.zip
-type: OCWFile
 uid: 00868bf3-36dd-ea35-fce0-9d476cf39d00
 ---
