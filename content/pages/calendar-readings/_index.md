@@ -52,7 +52,7 @@ Class Introduction; Solar Technology Framework
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Background Assessment Quiz (PDF)]({{< baseurl >}}/resources/mit2_627f13_lec1_survey) (not for grade)
+{{< resource_link 6904e119-84ec-9ba7-55f5-6ce340e92c1d "Background Assessment Quiz (PDF)" >}} (not for grade)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,9 +229,9 @@ Advanced Semiconductor Physics
 
 ### In-Class Activities
 
-[In-class problem set (PDF)]({{< baseurl >}}/resources/mit2_627f13_lec07_prob)
+{{< resource_link 7f52e380-6b61-cf85-e3e9-09eb4b23d86a "In-class problem set (PDF)" >}}
 
-[IV Curve Measurement]({{< baseurl >}}/pages/calendar-readings/iv-curve-measurement)
+{{< resource_link 6dfe93db-514c-ba69-7de8-88355c6e8722 "IV Curve Measurement" >}}
 
 
 {{< tdclose >}}

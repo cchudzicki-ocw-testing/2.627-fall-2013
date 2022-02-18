@@ -36,7 +36,7 @@ Course Learning Objectives
 Course Structure
 ----------------
 
-The course is divided into three parts: Fundamentals, Technologies, and Cross-Cutting Themes. This structure is represented by the following figure and reflected in the course [calendar]({{< baseurl >}}/pages/calendar-readings).
+The course is divided into three parts: Fundamentals, Technologies, and Cross-Cutting Themes. This structure is represented by the following figure and reflected in the course {{< resource_link a3e8ad1b-6f83-72d1-116a-9727fb53539f "calendar" >}}.
 
 ![Diagram of a two-layer rectangle, with base “Fundamentals” topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and Tech A-E.](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/syllabus/concpt_model.png)
 
