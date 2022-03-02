@@ -14,7 +14,7 @@ In the first half of the term, the course operates in a "flipped classroom" mode
 
 \[Green\]= Green, M. A. _Solar Cells: Operating Principles, Technology, and System Applications_. Prentice Hall, 1981. ISBN: 9780138222703.
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}LEC #{{< thclose >}}{{< thopen >}}LECTURE TOPICS & ACTIVITIES{{< thclose >}}{{< thopen >}}PREPARATION: VIDEOS & READINGS{{< thclose >}}{{< thopen >}}ASSIGNMENTS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 1: Fundamentals of PV Devices and Systems**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}Class Introduction; Solar Technology Framework{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}{{< resource_link 6904e119-84ec-9ba7-55f5-6ce340e92c1d "Background Assessment Quiz (PDF)" >}} (not for grade){{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2{{< tdclose >}}{{< tdopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}LEC #{{< thclose >}}{{< thopen >}}LECTURE TOPICS & ACTIVITIES{{< thclose >}}{{< thopen >}}PREPARATION: VIDEOS & READINGS{{< thclose >}}{{< thopen >}}ASSIGNMENTS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 1: Fundamentals of PV Devices and Systems**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}Class Introduction; Solar Technology Framework{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}{{% resource_link 6904e119-84ec-9ba7-55f5-6ce340e92c1d "Background Assessment Quiz (PDF)" %}} (not for grade){{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2{{< tdclose >}}{{< tdopen >}}
 The Solar Resource
 ### In-Class Activities
 [PVWatts Calculator](http://pvwatts.nrel.gov/). National Renewable Energy Laboratory.
@@ -91,9 +91,9 @@ Problem set 3 out
 Advanced Semiconductor Physics
 ### In-Class Activities
 
-{{< resource_link 7f52e380-6b61-cf85-e3e9-09eb4b23d86a "In-class problem set (PDF)" >}}
+{{% resource_link 7f52e380-6b61-cf85-e3e9-09eb4b23d86a "In-class problem set (PDF)" %}}
 
-{{< resource_link 6dfe93db-514c-ba69-7de8-88355c6e8722 "IV Curve Measurement" >}}
+{{% resource_link 6dfe93db-514c-ba69-7de8-88355c6e8722 "IV Curve Measurement" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
