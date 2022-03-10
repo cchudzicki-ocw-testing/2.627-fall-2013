@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Calendar & Readings
 uid: a3e8ad1b-6f83-72d1-116a-9727fb53539f
+video_metadata:
+  youtube_id: null
 ---
 In the first half of the term, the course operates in a "flipped classroom" mode. For lectures 2 through 12, before each class period, please watch the assigned MIT OpenCourseWare video lecture (per the table below), recorded during the Fall 2011 term. Class meetings on those days are devoted to further discussion and in-class activities. A sampling of some in-class activities is provided below.
 

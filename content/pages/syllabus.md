@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 29d1119e-7ba7-1836-0064-dab8e42e5f03
+video_metadata:
+  youtube_id: null
 ---
 ## Class Meeting Times
 
@@ -32,7 +34,7 @@ Students will learn how solar cells convert light into electricity, how solar ce
 
 The course is divided into three parts: Fundamentals, Technologies, and Cross-Cutting Themes. This structure is represented by the following figure and reflected in the course {{% resource_link a3e8ad1b-6f83-72d1-116a-9727fb53539f "calendar" %}}.
 
-![Diagram of a two-layer rectangle, with base “Fundamentals” topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and Tech A-E.](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/syllabus/concpt_model.png)
+{{< resource 19072bd7-636e-827b-c31b-4dd3b36d6274 "Diagram of a two-layer rectangle, with base “Fundamentals” topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and Tech A-E." >}}
 
 For the first half of the term, the course will operate in a "flipped classroom" mode. For lectures 2 to 12, before each class period, you will watch the assigned MIT OpenCourseWare video lecture recorded during the Fall 2011 term. Our class meetings will be devoted to further discussion and in-class activities.
 
