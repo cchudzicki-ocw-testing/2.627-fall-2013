@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part I (PDF - 2.8MB)](resources/mit2_627f13_lec18)'
+optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part I (PDF - 2.8MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec18)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''

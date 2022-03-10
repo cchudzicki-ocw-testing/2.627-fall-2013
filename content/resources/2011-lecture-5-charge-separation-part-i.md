@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Charge Separation, Part I (PDF - 3.0MB)](resources/mit2_627f13_lec05)
+optional_text: '[Charge Separation, Part I (PDF - 3.0MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec05)
 
 
   _Supporting Material_
