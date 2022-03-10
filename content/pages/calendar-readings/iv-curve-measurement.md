@@ -8,6 +8,8 @@ parent_type: CourseSection
 parent_uid: a3e8ad1b-6f83-72d1-116a-9727fb53539f
 title: IV Curve Measurement
 uid: 6dfe93db-514c-ba69-7de8-88355c6e8722
+video_metadata:
+  youtube_id: null
 ---
 
 We will be measuring the IV characteristics of a solar cell using a homemade Arduino-based USB-powered sourcemeter that connects to your personal laptop computer.

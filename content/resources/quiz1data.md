@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Quiz1data.zip
 uid: 00868bf3-36dd-ea35-fce0-9d476cf39d00
+video_metadata:
+  youtube_id: null
 ---

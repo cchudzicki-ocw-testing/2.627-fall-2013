@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Hypothesis Testing of New Wafer Suppliers
 uid: 84282d63-468f-afd3-00cf-6f8b25ceb46c
+video_metadata:
+  youtube_id: null
 ---

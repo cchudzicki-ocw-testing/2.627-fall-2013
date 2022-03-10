@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Quizzes
 uid: 5341b458-4ae2-28e4-a45e-ad39e27ef9c1
+video_metadata:
+  youtube_id: null
 ---
 
 Following are the quizzes and supplementary material from the Fall 2011 version of the course (matching the lecture videos).

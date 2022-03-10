@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Fundamentals of Photovoltaics Quiz 1
 uid: 229c7842-abc2-d23a-3de9-c944e49e2303
+video_metadata:
+  youtube_id: null
 ---

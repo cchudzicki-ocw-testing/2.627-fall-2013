@@ -13,4 +13,6 @@ resourcetype: Document
 title: 'Lecture 7: In-class Problems on PN Junction Band Formation and Ideal Diode
   Equation'
 uid: 7f52e380-6b61-cf85-e3e9-09eb4b23d86a
+video_metadata:
+  youtube_id: null
 ---

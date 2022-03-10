@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem set 1
 uid: b692be51-7a36-b66f-7626-3353d1d27c1d
+video_metadata:
+  youtube_id: null
 ---

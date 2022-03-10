@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Worksheet on pn-junctions under dark and illuminated conditions
 uid: 49abdb02-0f38-4bb7-b9e5-a65c54ea478f
+video_metadata:
+  youtube_id: null
 ---
