@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Light Absorption and Optical Losses (PDF - 2.3MB)](resources/mit2_627f13_lec03)'
+optional_text: '[Light Absorption and Optical Losses (PDF - 2.3MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec03)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
