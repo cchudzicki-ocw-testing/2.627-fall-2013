@@ -25,7 +25,7 @@ The Solar Resource
 {{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
 
-\[Lecture 2: The Solar Resource\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-2-the-solar-resource)
+[Lecture 2: The Solar Resource]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-2-the-solar-resource)
 
 ### Read
 
@@ -35,11 +35,11 @@ The Solar Resource
 
 {{< tdclose >}}{{< tdopen >}}Problem set 1 out{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}3{{< tdclose >}}{{< tdopen >}}Light Management{{< tdclose >}}{{< tdopen >}}
 ### Watch Tutorial Video
-\[Tutorial: Texturing\]({{< baseurl >}}/pages/tutorial-videos/tutorial-texturing)
+[Tutorial: Texturing]({{< baseurl >}}/pages/tutorial-videos/tutorial-texturing)
 
 ### Watch Fall 2011 Lecture Video in OCW
 
-\[Lecture 3: Light Absorption and Optical Losses\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-3-light-absorption-and-optical-losses)
+[Lecture 3: Light Absorption and Optical Losses]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-3-light-absorption-and-optical-losses)
 
 ### Read
 
@@ -47,8 +47,8 @@ The Solar Resource
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}4{{< tdclose >}}{{< tdopen >}}Charge Excitation{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
-\[Lecture 4: Charge Excitation   
-\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-4-charge-excitation)
+[Lecture 4: Charge Excitation   
+]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-4-charge-excitation)
 
 ### Read
 
@@ -61,15 +61,15 @@ Problem set 2 out
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}5{{< tdclose >}}{{< tdopen >}}Charge Separation I{{< tdclose >}}{{< tdopen >}}
 ### Watch Tutorial Video
-\[Tutorial: Doping\]({{< baseurl >}}/pages/tutorial-videos/tutorial-doping)
+[Tutorial: Doping]({{< baseurl >}}/pages/tutorial-videos/tutorial-doping)
 
-\[Tutorial: Photoconductivity\]({{< baseurl >}}/pages/tutorial-videos/tutorial-photoconductivity)
+[Tutorial: Photoconductivity]({{< baseurl >}}/pages/tutorial-videos/tutorial-photoconductivity)
 
-\[Tutorial: Solar Cell Operation\]({{< baseurl >}}/pages/tutorial-videos/tutorial-solar-cell-operation)
+[Tutorial: Solar Cell Operation]({{< baseurl >}}/pages/tutorial-videos/tutorial-solar-cell-operation)
 
 ### Watch Fall 2011 Lecture Video in OCW
 
-\[Lecture 5: Charge Separation, Part I\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-5-charge-separation-part-i)
+[Lecture 5: Charge Separation, Part I]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-5-charge-separation-part-i)
 
 ### Read
 
@@ -82,7 +82,7 @@ Class Projects: Describe existing ideas and provide opportunity to pitch new ide
 {{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
 
-\[Lecture 6: Charge Separation, Part II\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-6-charge-separation-part-ii)
+[Lecture 6: Charge Separation, Part II]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-6-charge-separation-part-ii)
 
 {{< tdclose >}}{{< tdopen >}}
 Problem set 2 due
@@ -100,7 +100,7 @@ Advanced Semiconductor Physics
 {{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
 
-\[Lecture 7: Toward a 1D Device Model, Part I: Device Fundamentals\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-7-toward-a-1d-device-model-part-i-device-fundamentals)
+[Lecture 7: Toward a 1D Device Model, Part I: Device Fundamentals]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-7-toward-a-1d-device-model-part-i-device-fundamentals)
 
 ### Read
 
@@ -108,11 +108,11 @@ Schroder, D. K. "[Solar Cell Contact Resistance–A Review](http://dx.doi.org/10
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}8{{< tdclose >}}{{< tdopen >}}Materials Properties Affecting Performance{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
-\[Lecture 8: Toward a 1D Device Model, Part II: Material Fundamentals\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-8-toward-a-1d-device-model-part-ii-material-fundamentals)
+[Lecture 8: Toward a 1D Device Model, Part II: Material Fundamentals]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-8-toward-a-1d-device-model-part-ii-material-fundamentals)
 
 {{< tdclose >}}{{< tdopen >}}Form project teams{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}9{{< tdclose >}}{{< tdopen >}}Charge Collection (Contacts & Metallization){{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
-\[Lecture 9: Charge Extraction\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-9-charge-extraction)
+[Lecture 9: Charge Extraction]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-9-charge-extraction)
 
 {{< tdclose >}}{{< tdopen >}}
 Problem set 3 due
@@ -121,7 +121,7 @@ Quiz 1 out
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 2: PV Technologies (Commercial and Emerging)**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}10{{< tdclose >}}{{< tdopen >}}Commercial Technologies: Silicon I{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
-\[Lecture 10: Wafer Silicon-Based Solar Cells, Part I\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-10-wafer-silicon-based-solar-cells-part-i)
+[Lecture 10: Wafer Silicon-Based Solar Cells, Part I]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-10-wafer-silicon-based-solar-cells-part-i)
 
 ### Read (optional)
 
@@ -138,7 +138,7 @@ Luque, A., and S. Hegedus, eds. Chapters in _Handbook of Photovoltaic Science an
 
 {{< tdclose >}}{{< tdopen >}}Project: organized first meetings with mentors outside of normal class time.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}11{{< tdclose >}}{{< tdopen >}}Commercial Technologies: Silicon II{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
-\[Lecture 11: Wafer Silicon-Based Solar Cells, Part II\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-11-wafer-silicon-based-solar-cells-part-ii)
+[Lecture 11: Wafer Silicon-Based Solar Cells, Part II]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-11-wafer-silicon-based-solar-cells-part-ii)
 
 {{< tdclose >}}{{< tdopen >}}
 Quiz 1 due
@@ -149,7 +149,7 @@ Quiz 2 out
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}12{{< tdclose >}}{{< tdopen >}}Commercial Technologies: Thin Films I{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
-\[Lecture 12: Thin Films: Materials Choices and Manufacturing, Part I\]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-12-thin-films-materials-choices-and-manufacturing-part-i)
+[Lecture 12: Thin Films: Materials Choices and Manufacturing, Part I]({{< baseurl >}}/pages/lecture-videos-slides/2011-lecture-12-thin-films-materials-choices-and-manufacturing-part-i)
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}13{{< tdclose >}}{{< tdopen >}}
 Commercial Technologies: Thin Films II
