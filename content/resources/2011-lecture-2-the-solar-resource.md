@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Quantify magnitude and nature of solar resource. Atmospheric absorption, variability (geographical, seasonal, diurnal, weather-related). Power vs. energy; capacity factor. Issues with non-dispatchability. Direct and diffuse radiation, standards for insolation. Spectral quality. Measurement of insolation.
 
 **Instructor:** Prof. Tonio Buonassisi
+

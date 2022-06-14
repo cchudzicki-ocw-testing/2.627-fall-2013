@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Photogenerated carrier concentrations; carrier lifetimes and recombination mechanisms. Material properties affecting device performance: minority carrier diffusion length, mobility (band conduction vs. dispersive hopping), and lifetime.
 
 **Instructor:** Joseph T. Sullivan
+

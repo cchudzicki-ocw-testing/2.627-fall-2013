@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Photon interactions with matter. Optical losses in solar cells. Photon management strategies in PV devices (anti-reflection coatings, plasmonics, texturization, etc.)
 
 **Instructor:** Prof. Tonio Buonassisi
+

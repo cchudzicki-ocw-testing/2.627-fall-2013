@@ -33,3 +33,4 @@ video_metadata:
 First in-class debate: Cadmium Telluride: A Technology of the Future, or Red Herring?
 
 **Instructor:** Prof. Tonio Buonassisi
+

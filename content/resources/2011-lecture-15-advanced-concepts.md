@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Performance in the field: temperature, shading, and mismatch. Third generation solar cells: intermediate band materials, novel thin film materials, multiband semiconductors, hot carrier devices, spectrum splitting.
 
 **Instructor:** Joseph T. Sullivan
+

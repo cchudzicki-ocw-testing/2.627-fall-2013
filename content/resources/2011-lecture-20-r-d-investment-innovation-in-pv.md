@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Innovation as a driver for PV cost reduction, learning curve. The PV technology life cycle, and differences in the US, Japanese, German, and Chinese models. How to apply what you've learned in this course to evaluate potential PV innovations.
 
 **Instructor:** Prof. Tonio Buonassisi
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Density of occupied and unoccupied electronic states. Fermi Energy defined as chemical potential. Dispersion of electronic states.
 
 **Instructor:** Prof. Tonio Buonassisi
+

@@ -36,3 +36,4 @@ video_metadata:
 Initiate class projects: describe existing ideas and provide opportunity to pitch new ideas.
 
 **Instructor:** Prof. Tonio Buonassisi
+

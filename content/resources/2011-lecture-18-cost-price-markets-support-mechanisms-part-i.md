@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Cost: Building a cost model, key drivers of cost, substitution economics. Manufacturing: Environments, models, operations, process yield, handling. Predicting shortages and bottlenecks. Scaling to multi-GWs.
 
 **Instructor:** Prof. Tonio Buonassisi
+

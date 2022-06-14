@@ -31,3 +31,4 @@ video_metadata:
 **Description:** Thin film advantages and disadvantages. Precursors. Deposition processes and technologies. Other technologies: concentrator devices and materials, heterojunction devices, photovoltaic thermal. Efficiency loss mechanisms of commercial thin-film devices. CdTe (cadmimum telluride) and its environmental issue.
 
 **Instructor:** Prof. Tonio Buonassisi
+

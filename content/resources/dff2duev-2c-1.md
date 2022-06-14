@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-627-fundamentals-of-photovoltaics-fall-2013/c198c284965ab9daffb20acafd4e2c3b_dFF2DuEv-2c.pdf
+file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/c198c284965ab9daffb20acafd4e2c3b_dFF2DuEv-2c.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

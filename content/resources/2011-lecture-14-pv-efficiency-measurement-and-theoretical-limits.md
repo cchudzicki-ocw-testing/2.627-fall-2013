@@ -30,3 +30,4 @@ video_metadata:
 Second in-class debate: Elemental Resource Abundance: Engineering Issue, Political Issues, or Non-Issue?
 
 **Instructor:** Prof. Tonio Buonassisi
+

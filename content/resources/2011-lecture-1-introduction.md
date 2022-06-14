@@ -30,3 +30,4 @@ video_metadata:
 Solar technology framework. Abridged PV history and status quo. Challenges and opportunities toward widescale PV adoption. Solar energy conversion technologies (electric, thermal, chemical).
 
 **Instructor:** Prof. Tonio Buonassisi
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Schottky & Ohmic contacts. Importance of band alignment. Series and shunt resistance. Solar cell device architectures. Common limitations of efficiency, short-circuit current, fill factor, open-circuit voltage. Measurement of quantum efficiency, solar cell efficiency.
 
 **Instructor:** Prof. Tonio Buonassisi
+

@@ -34,3 +34,4 @@ video_metadata:
 **Description:** Doping a semiconductor. Explanation of drift, diffusion, and illumination current. Derivation of diode equation.
 
 **Instructor:** Prof. Tonio Buonassisi
+

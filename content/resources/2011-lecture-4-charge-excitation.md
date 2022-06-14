@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Description of band gap and optical charge excitation in semiconductors. How a band gap determines maximum theoretical efficiency. Thermalization losses.
 
 **Instructor:** Prof. Tonio Buonassisi
+

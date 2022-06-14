@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Conceptual model of course structure.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-627-fundamentals-of-photovoltaics-fall-2013/19072bd7636e827bc31b4dd3b36d6274_concpt_model.png
+file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/19072bd7636e827bc31b4dd3b36d6274_concpt_model.png
 file_type: image/png
 image_metadata:
   caption: Conceptual model of course structure.
@@ -20,3 +20,4 @@ uid: 19072bd7-636e-827b-c31b-4dd3b36d6274
 video_metadata:
   youtube_id: null
 ---
+Conceptual model of course structure.

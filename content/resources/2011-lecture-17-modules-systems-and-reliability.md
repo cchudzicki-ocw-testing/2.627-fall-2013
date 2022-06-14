@@ -41,3 +41,4 @@ video_metadata:
 **Description:** Module manufacturing: encapsulation materials, availability, trends. Systems: Grid-tied and stand-alone, tracking and non-tracking. System components, including balance of systems components. Design criteria, tradeoffs, costs. Building integration, BIPV. Scaling, and power grid integration. Appropriate technology selection. Life cycle analysis. Failure: failure modes in stationary and tracking systems, accelerated testing, field testing, service and warranty contracts. Fire safety.
 
 **Instructor:** Prof. Tonio Buonassisi
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This video describes how light shining on a Si semiconductor causes its conductivity to rise. The energy of photons hitting the semiconductor breaks covalent bonds within the material, creating mobile electrons and holes.
 
 **Instructor:** Joe Sullivan
+

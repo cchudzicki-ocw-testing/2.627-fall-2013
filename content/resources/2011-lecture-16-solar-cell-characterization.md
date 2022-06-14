@@ -32,3 +32,4 @@ video_metadata:
 **Description:** Classification, function, and deliverables of solar cell characterization. JSC loss measurements: optical reflection, spectral response, minority character diffusion length. FF & VOC loss measurements: IV curves, series resistance (contact & sheet) , shunt resistance (lock-in thermography), electroluminescence.
 
 **Instructor:** Prof. Tonio Buonassisi
+
