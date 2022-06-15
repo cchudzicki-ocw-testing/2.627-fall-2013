@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the schedule of lecture topics, activities, videos,
+  readings, and assignments. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

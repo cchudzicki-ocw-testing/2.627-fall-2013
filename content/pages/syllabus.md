@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course synopsis and information on meeting
+  times, objectives, structure, Google+ Community, grading, the student-professor
+  contract, staffing, textbook, references, and reading material.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
