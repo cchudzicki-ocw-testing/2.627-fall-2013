@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes quizzes and supplementary material from the Fall
+  2011 version of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

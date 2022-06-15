@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes a related project by Prof. Buonassisi on Accelerated
+  Materials for Development, and links to its series of videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

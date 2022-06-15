@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page supplies background information about the IV Curve measurement
+  in-class activity done in Lecture 7.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

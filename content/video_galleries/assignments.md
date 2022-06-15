@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: This page presents the problem sets, manufacturing simulation assignment,
+  and team project required for the course. Videos of final project presentations
+  from the 2011 class are included.
 is_media_gallery: true
 learning_resource_types:
 - Assignments
