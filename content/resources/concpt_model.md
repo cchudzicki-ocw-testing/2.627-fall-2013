@@ -10,6 +10,7 @@ image_metadata:
     \ topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and\
     \ Tech A-E."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection

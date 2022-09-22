@@ -5,6 +5,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/507e3bc48edc57841a0
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
